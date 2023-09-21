@@ -6,5 +6,7 @@
 - 2023.06 ~ 2023.08: [유데미X스나이퍼팩토리] 10주 완성 프로젝트 캠프 프론트엔드(리액트/react) 수료
 
 <table><tr><td valign="top" width="54%">
-<img src="https://github-readme-stats.vercel.app/api?username=leeyulgok&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leeyulgok&show_icons=true&theme=react&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="46%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyulgok&hide_border=true&layout=compact&theme=react" align="left" style="width: 100%" />
+</td></tr></table>
