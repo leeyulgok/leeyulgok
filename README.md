@@ -1,5 +1,9 @@
 ### Let's enjoy and think, and make a good society!
 
+#### 독서
+- 코어 자바스크립트(핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍)/ 정재남 (70% 진행중)
+- 쉽게 시작하는 타입스크립트 / 캡틴 판교 (13% 진행중)
+
 #### TimeLine
 - 2021.06 ~ 2022.02: K-move Java Developer 양성과정 수료 (정보처리기사/SQLD 취득)
 - 2022.06 ~ 2023.03: 일본 나고야 StyleSystem 백엔드 개발자
