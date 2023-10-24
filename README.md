@@ -1,5 +1,10 @@
 ### Let's enjoy and think, and make a good society!
 
+#### 개발 글
+- 티스토리(23.10월 ~) : https://yulgok-dev.tistory.com/
+- 개발 노션(23.10월 ~): https://yulgok-dev.notion.site
+- 기술 블로그(23.01월 ~ 23년 9월): https://velog.io/@dbfrhr20 (휴식/정리중)
+
 #### 독서
 - 코어 자바스크립트(핵심 개념과 동작 원리로 이해하는 자바스크립트 프로그래밍)/ 정재남 (1회 완독) 2회 완독 목표
 - 쉽게 시작하는 타입스크립트 / 캡틴 판교 (1회 완독) 2회 완독 목표
